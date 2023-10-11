@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Guadalajara",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-09-08T12:33:53.956Z",
+      "notes": "Nice",
+      "position": {
+        "lat": "40.515314614415296",
+        "lng": "-3.1860351562500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Coimbatore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-08T15:41:54.357Z",
+      "notes": "Good",
+      "position": {
+        "lat": "10.97915037010867",
+        "lng": "76.97570800781251"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-09-10T12:02:45.593Z",
+      "notes": "",
+      "position": {
+        "lat": "48.839626950009865",
+        "lng": "2.3785400390625004"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Chitwan National Park",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2023-09-10T13:56:35.889Z",
+      "notes": "",
+      "position": {
+        "lat": "27.53906154563565",
+        "lng": "84.52315107661028"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Happurg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-09-10T15:05:45.302Z",
+      "notes": "",
+      "position": {
+        "lat": "49.50006919138979",
+        "lng": "11.451888625172044"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Tchirozerine",
+      "country": "Niger (the)",
+      "emoji": "🇳🇪",
+      "date": "2023-10-11T07:22:21.168Z",
+      "notes": "Best place to visit in the month of June.",
+      "position": {
+        "lat": "17.592728175209402",
+        "lng": "9.283447265625002"
+      },
+      "id": 7
+    }
+  ]
+}
